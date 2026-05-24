@@ -22,7 +22,7 @@
 |------|------|
 | 김민수 | UART Controller, FIFO, ASCII SENDER |
 | 김성훈 | SR04 Controller |
-| 김수빈 | DHT11 Controller, FND Controller 확장, UART-PC 제어 통합, Timing 개선, Watchdog 설계 |
+| 김수빈 | DHT11 Controller |
 | 하지훈 | 시스템 통합 (Control Logic, FND, LED Indicator) |
 
 ---
