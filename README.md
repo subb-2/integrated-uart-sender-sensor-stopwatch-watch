@@ -1,7 +1,10 @@
 # 통합 디지털 시스템 설계 — 2조
 
-> Basys3(Xilinx FPGA) 기반 Stopwatch / Clock 시스템에  
-> SR04 초음파 센서, DHT11 온습도 센서, UART PC 인터페이스를 통합한 디지털 시스템
+## 📅 프로젝트 정보
+
+- **진행 기간**: 2026.02.23 ~ 2026.03.03
+- **설계 대상**: SR04 / DHT11 센서 통합 + UART PC 인터페이스 + Stopwatch / Clock 시스템
+- **기술 스택**: `Verilog`, `Vivado`, `Basys3 (Artix-7)`, `Vivado Simulator (XSim)`
 
 ---
 
@@ -13,14 +16,6 @@
 - DHT11 센서를 이용한 온도 / 습도 측정 및 7-Segment 표시
 - UART를 이용하여 현재 시간 및 온도 / 습도를 PC로 전송
 - PC에서 UART 명령어를 통해 모드 전환 및 버튼 제어 지원
-
----
-
-## 📅 프로젝트 정보
-
-- **진행 기간**: 2026.02.23 ~ 2026.03.03
-- **설계 대상**: SR04 / DHT11 센서 통합 + UART PC 인터페이스 + Stopwatch / Clock 시스템
-- **기술 스택**: `Verilog`, `Vivado`, `Basys3 (Artix-7)`, `Vivado Simulator (XSim)`
 
 ---
 
