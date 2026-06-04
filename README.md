@@ -4,7 +4,7 @@
 
 - **진행 기간**: 2026.02.12 ~ 2026.02.22
 - **설계 대상**: SR04 / DHT11 센서 통합 + UART PC 인터페이스 + Stopwatch / Clock 시스템
-- **기술 스택**: `Verilog`, `Vivado`, `Basys3 (Artix-7)`, `Vivado Simulator (XSim)`
+- **기술 스택**: `Verilog`, `Vivado`, `Basys3`, `Vivado Simulator (XSim)`
 
 ---
 
